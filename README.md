@@ -1,1 +1,1 @@
-Its a little number guessing game i made in python.
+A simple Python console game where the player tries to guess a random number between 1 and 100.
